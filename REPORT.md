@@ -65,6 +65,8 @@ tests/test_model.py:10:1: E302 expected 2 blank lines, found 1
 tests/test_model.py:13:101: E501 line too long (109 > 100 characters)
 tests/test_model.py:61:1: E302 expected 2 blank lines, found 1
 (.venv) PS D:\education222222222222222222\CI3\DevOps\ml-project>
+jai corregé les erreur et voila 
+-> les captures déecrants dans le dossier imgs 
 
 
 
